@@ -1,20 +1,67 @@
 # Calvos-Hair
 <!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <title>Calvos' hair</title>
-    </head>
-    <body>
-        <h1>Sobre a Calvos' hair</h1>
 
-        <p>Localizada no coração da cidade a <strong>Calvos' hair</strong> traz para o mercado o que há de melhor para o restinho de seu cabelo e barba. 
-        Fundada em 1930, a Calvos' hair já é destaque na cidade e conquista novos calvinhos a cada dia.</p>
+<html>
 
-        <p><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos calvos"</strong>.</em></p>
+<meta charset="UTF-8">
 
-        <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
-        O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos calvinhos.</p>
-    </body>
+<head>
+
+<title>Produtos
+
+Barbearia Alura</title>
+
+<link rel="stylesheet" href="produtos.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1><img src="logo.png"></h1>
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="produtos.html">Produtos</a></11>
+
+</ul>
+
+<li><a href="contato.html">Contato</a></li>
+
+</nav>
+
+</header>
+
+</body>
+
 </html>
+header(
 
+background: #BBBBBB;
+}
+
+nav li {
+
+display: inline;
+
+margin: 0 0 0 15px;
+
+} 
+
+
+nav a (
+
+text-transform: uppercase;
+
+color: #000000;
+
+font-weight: bold;
+
+font-size: 22px;
+
+text-decoration: none;
